@@ -1,0 +1,16 @@
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\bin\Debug\net8.0-windows\Maze2.exe
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\bin\Debug\net8.0-windows\Maze2.deps.json
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\bin\Debug\net8.0-windows\Maze2.runtimeconfig.json
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\bin\Debug\net8.0-windows\Maze2.dll
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\bin\Debug\net8.0-windows\Maze2.pdb
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.Form1.resources
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.csproj.GenerateResource.cache
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.AssemblyInfoInputs.cache
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.AssemblyInfo.cs
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.csproj.CoreCompileInputs.cache
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.dll
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\refint\Maze2.dll
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.pdb
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\Maze2.genruntimeconfig.cache
+C:\Users\christopher paulemon\source\repos\Maze2\Maze2\obj\Debug\net8.0-windows\ref\Maze2.dll
